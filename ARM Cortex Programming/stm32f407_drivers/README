@@ -1,0 +1,4 @@
+This folder contains the source files for target ARM Cortex M4 (STM32F407-Discovery) board
+Files were generated/coded inside STM32CUBE IDE
+The folder contains all the low level drivers, and multiple application examples.
+...Specifically have a look at application example with filename 012I2C_master_rx_testingIT.c
